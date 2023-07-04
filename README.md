@@ -33,6 +33,13 @@
  
 ![image](https://github.com/suganyaanbalagan123/aws-ci-cd-nginx/assets/133192593/4864601e-691a-4984-8260-831cbcd7ad61)
 
+**Through ci-cd pipeline**
+
+![image](https://github.com/suganyaanbalagan123/aws-ci-cd-nginx/assets/133192593/726d9c3a-f510-4fd6-8691-a3007d9eb330)
+
+
+
+![image](https://github.com/suganyaanbalagan123/aws-ci-cd-nginx/assets/133192593/aced136d-cfd4-4464-849f-e9028b20cf18)
 
 
 
