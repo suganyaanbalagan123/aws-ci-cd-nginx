@@ -42,5 +42,15 @@
 ![image](https://github.com/suganyaanbalagan123/aws-ci-cd-nginx/assets/133192593/aced136d-cfd4-4464-849f-e9028b20cf18)
 
 
+**** Ngnix application opened via browser with the instance public ip****
+
+
+![image](https://github.com/suganyaanbalagan123/aws-ci-cd-nginx/assets/133192593/c6b31692-a7d6-49e4-955a-ec12e069bc1a)
+
+
+![image](https://github.com/suganyaanbalagan123/aws-ci-cd-nginx/assets/133192593/be449418-0c56-4671-a3f1-0b5b5b7c9203)
+
+
+
 
 
